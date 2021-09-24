@@ -1,4 +1,4 @@
-/*Nhập vào số tiền. Hãy tính và in ra số tờ tiền tương ứng của các mệnh giá giảm dần: 500k, 200k, 100k, 50k. (giả sử đổi hết mệnh giá lớn, phần dư mới đổi sang mệnh giá nhỏ hơn). */
+﻿/*Nhập vào số tiền. Hãy tính và in ra số tờ tiền tương ứng của các mệnh giá giảm dần: 500k, 200k, 100k, 50k. (giả sử đổi hết mệnh giá lớn, phần dư mới đổi sang mệnh giá nhỏ hơn). */
 
 
 using System;
@@ -36,5 +36,13 @@ namespace Cau_7
             Console.WriteLine(" So to 500k la: {0} to. \n So to 200k la: {1} to.\n So to 100k la: {2} to.\n So to 50k  la: {3} to. \n", SoTo500k, SoTo200k, SoTo100k, SoTo50k);
             Console.WriteLine("***** Thank You ***** \n");
         }
+
+        static void Main(string[] args)
+        {
+            int tien;
+            NhapTien(out tien);
+            DoiTien(tien);
+        }
     }
+
 }
