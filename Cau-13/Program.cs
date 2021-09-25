@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Giải và biện luận phương trình bậc 2: ax2 + bx + c = 0
+
+using System;
 
 namespace Cau_13
 {
@@ -50,7 +52,6 @@ namespace Cau_13
                     Console.WriteLine(" Phuong trinh co 2 nghiem phan biet x1,x2: \n  x1= {0}, x2= {1}", (-b - Math.Sqrt(delta)) / (2 * a), (-b + Math.Sqrt(delta)) / (2 * a)); 
             }
         }
-
 
     static void Main(string[] args)
         {
