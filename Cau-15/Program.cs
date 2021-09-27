@@ -10,16 +10,18 @@ namespace Cau_15
         {
             Console.WriteLine(" TRO CHOI DOAN SO \n");
             Console.WriteLine(" \n****************\n");
-            Console.WriteLine(" Nhap gia tri nho nhat: \n");
+
+            Console.WriteLine(" Ban hay nhap gia tri nho nhat: \n");
             int minValue = int.Parse(Console.ReadLine());
-            Console.WriteLine(" Nhap gia tri lon nhat: \n");
+            Console.WriteLine(" Ban hay nhap gia tri lon nhat: \n");
             int maxValue = int.Parse(Console.ReadLine());
 
             Random myObject = new Random();
             int ranNum = myObject.Next(minValue, maxValue);
 
-            Console.WriteLine(" Nhap so du doan: \n");
+            Console.WriteLine(" Ban hay nhap so du doan: \n");
             int Guess = int.Parse(Console.ReadLine());
+
             while (Guess != ranNum)
             {
                 if (Guess < ranNum)
@@ -27,7 +29,7 @@ namespace Cau_15
                 else
                     Console.WriteLine("<" + Guess);
 
-                Console.WriteLine(" Nhap so du doan: \n");
+                Console.WriteLine(" Ban hay nhap so du doan: \n");
                 Guess = int.Parse(Console.ReadLine());
 
             }
