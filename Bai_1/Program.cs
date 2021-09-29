@@ -1,4 +1,4 @@
-﻿//Viết chương trình nhập vào tháng và năm. In ra số ngày của tháng đó.
+﻿// Viết chương trình nhập vào tháng và năm. In ra số ngày của tháng đó.
 
 
 using System;
