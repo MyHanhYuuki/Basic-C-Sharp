@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Viết chương trình cài đặt đối tượng phân số, trong đó phân số được định nghĩa gồm có tử số và mẫu số với kiểu dữ liệu là số nguyên. Hãy cài đặt các thao tác trên đối tượng phân số này:
+// a.Nhập vào một phân số, rút gọn phân số và xuất ra kết quả
+// b. Nhập vào hai phân số, xuất ra các giá trị cộng, trừ, nhân, chia 2 phân số
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
