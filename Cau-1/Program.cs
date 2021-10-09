@@ -6,7 +6,16 @@ namespace Cau_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double r, chu_vi, dien_tich;
+            double PI = 3.14;
+            Console.Write("hnhap ban kinh duong tron R: ");
+            r = Convert.ToDouble(Console.ReadLine());
+            chu_vi = 2 * PI * r;
+            Console.WriteLine("\n - Chu vi cua hinh tron la: {0}", chu_vi);
+            dien_tich = PI * r * r;
+            Console.WriteLine("- Dien tich cua hinh tron la: {0}", dien_tich);
+            Console.Read();
+            Console.ReadKey();
         }
     }
 }
