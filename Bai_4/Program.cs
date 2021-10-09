@@ -37,8 +37,7 @@ namespace Bai_4
                     Console.Write("+ Nhap tu mau: ");
                     mau = Convert.ToInt32(Console.ReadLine());
 
-                } while (mau == 0);               
-
+                } while (mau == 0);
             }
 
             // Ham cong 2 phan so
@@ -125,7 +124,7 @@ namespace Bai_4
                 for (int i = 0; i < n; i++)
                 {
                     ps[i] = new phanso();
-                    Console.WriteLine("\n- Phan so thu {0}", i + 1);
+                    Console.WriteLine("\n- Phan so thu {0}:", i + 1);
                     ps[i].nhap();
                     ps[i] = ps[i].RutGonPhanSo();
                 }
@@ -133,8 +132,9 @@ namespace Bai_4
             public void Xuat()
             {
                 for (int i = 0; i < n; i++)
-                {                  
+                {
                     ps[i].xuat();
+                    ps[i] = ps[i].RutGonPhanSo();
                     Console.Write(" , ");
                 }
             }
@@ -178,35 +178,40 @@ namespace Bai_4
             }
         }
                 // Ham Main
-                static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("\n * Mot phan so * \n ");
             phanso p = new phanso();
             Console.WriteLine("- Nhap vao phan so: ");
             p.nhap();
-            Console.WriteLine("- Phan so da rut gon: ");
-            p.xuat();       
+            Console.WriteLine("- Xuat phan so: ");
+            p.xuat();
+            Console.WriteLine("\n - Rut gon phan so (neu co):");
+            phanso rutgon = p.RutGonPhanSo();
+            rutgon.xuat();
 
             Console.WriteLine("\n\n * Hai phan so * ");
             chuoiphanso c = new chuoiphanso();
             c.Nhap();
+            Console.WriteLine("\n- Rut gon 2 phan so (neu co):");
             c.Xuat();
 
             phanso tong = c.tinhtong();
-            Console.Write("\n Tong  la : \n");
+            Console.Write("\n -> Tong cua 2 phan so la : \n");
             tong.xuat();
 
             phanso hieu = c.tinhhieu();
-            Console.Write("\n Hieu  la : \n");
+            Console.Write("\n -> Hieu cua 2 phan so la : \n");
             hieu.xuat();
 
             phanso tich = c.tinhtich();
-            Console.Write("\n Tich  la : \n");
+            Console.Write("\n -> Tich cua 2 phan so la : \n");
             tich.xuat();
 
             phanso thuong = c.tinhthuong();
-            Console.Write("\n Thuong la : \n");
+            Console.Write("\n -> Thuong cua 2 phan so la : \n");
             thuong.xuat();
+            Console.ReadKey();
         }
     }
 }
