@@ -12,19 +12,39 @@ namespace Cau_17
             int num1, num2, opt;
 
             Console.Write("\n");
-            Console.Write("Hien thi menu voi cac lua chon de thuc hien cac phep toan co ban( + - x :) :\n");
-            Console.Write("-------------------------------------------------------------------------------");
+            Console.Write("Hien thi menu voi cac lua chon de thuc hien cac phep toan co ban( + - x :) \n");
+            Console.Write("---------------------------------------------------------------------------");
             Console.Write("\n\n");
 
-            Console.Write("Ban hay nhap so nguyen thu nhat: ");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Ban hay nhap so nguyen thu hai: ");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            NhapLaiNum1:
+            Console.Write("\nBan hay nhap so nguyen thu nhat: ");
+            //num1 = Convert.ToInt32(Console.ReadLine());
+            if (!int.TryParse(Console.ReadLine(), out num1))
+            {
+                Console.WriteLine("So nhap vao phai la so nguyen!");
+                goto NhapLaiNum1;
+            }
+
+            NhapLaiNum2:
+            Console.Write("\nBan hay nhap so nguyen thu hai: ");
+            //num2 = Convert.ToInt32(Console.ReadLine());
+            if (!int.TryParse(Console.ReadLine(), out num2))
+            {
+                Console.WriteLine("So nhap vao phai la so nguyen!");
+                goto NhapLaiNum2;
+            }
 
             Console.Write("\nLua chon cac phep tinh:\n");
             Console.Write("1 - Phep cong.\n2 - Phep tru.\n3 - Phep nhan.\n4 - Phep chia.\n5 - Thoat.\n");
+
+            NhapLai:
             Console.Write("\nNhap lua chon cua ban: ");
-            opt = Convert.ToInt32(Console.ReadLine());
+            //opt = Convert.ToInt32(Console.ReadLine());
+            if (!int.TryParse(Console.ReadLine(), out opt))
+            {
+                Console.WriteLine("So nhap vao phai la so nguyen!");
+                goto NhapLai;
+            }
 
             switch (opt)
             {
@@ -50,15 +70,13 @@ namespace Cau_17
                         Console.Write("-> Thuong cua hai so {0} va {1} la: {2}\n", num1, num2, num1 / num2);
                     }
                     break;
-
-                case 5:
-                    break;
-
                 default:
-                    Console.Write("Nhap tuy chon khong hop le! \n");
+                    Console.Write("Nhap tuy chon khong hop le! ( chon tu 1 den 4) \n");
+                    Console.Write("Ban vui long nhap lai! \n");
+                    goto NhapLai;
                     break;
             }
             Console.ReadKey();
         }
     }
-} 
+}
