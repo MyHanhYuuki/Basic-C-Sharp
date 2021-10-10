@@ -1,181 +1,141 @@
-﻿//3.Viết chương trình cho phép tạo ma trận chứa các số nguyên ngẫu nhiên gồm n
-//dòng, m cột. Cài đặt hàm thực hiện các chức năng sau:
-//a.Xuất ma trận
-//b. Tìm phần tử lớn nhất/nhỏ nhất
-//c. Tìm dòng có tổng lớn nhất
-//d. Tính tổng các số không phải là số nguyên tố
-//e. Xóa dòng thứ k trong ma trận
-//f. Xóa cột chứa phần tử lớn nhất trong ma trận
+﻿// Viết chương trình cho phép tạo ma trận chứa các số nguyên ngẫu nhiên gồm n dòng, m cột. Cài đặt hàm thực hiện các chức năng sau:
+// a. Xuất ma trận
+// b. Tìm phần tử lớn nhất/ nhỏ nhất
+// c. Tìm dòng có tổng lớn nhất
+// d. Tính tổng các số không phải là số nguyên tố
+// e. Xóa dòng thứ k trong ma trận
+// f. Xóa cột chứa phần tử lớn nhất trong ma trận
 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System;
+using System.Threading.Tasks;
 
 namespace Bai_3
 {
     class Program
     {
-        //Ham nhap mang
-        public void setArray(ref int n, ref int[] a)
-
+        static void Main(string[] args)
         {
-            do
+            int n, m, i, j, mn, mx;
+            Console.OutputEncoding = Encoding.UTF8; //dau
+            Console.Write("Ban hay nhap vao so hang n: ");
+            n = int.Parse(Console.ReadLine());
+            Console.Write("Ban hay nhap vao so cot m: ");
+            m = int.Parse(Console.ReadLine());
+
+            int[,] IntArray = new int[n, m];
+
+            for (i = 0; i < IntArray.GetLength(0); i++)
             {
-                Console.Write("Nhap n (0 < n < 100): ");
-
-                n = int.Parse(Console.ReadLine());
-
-            } while (n >= 100 || n <= 0);
-
-            for (int i = 0; i < n; i++)
-            {
-                Console.Write("Nhap a[{0}]: ", i);
-
-                a[i] = int.Parse(Console.ReadLine().ToString());
-            }
-        }
-
-        //Ham in tat ca cac phan tu trong mang
-        public void print(int[] a, int n)
-        {
-            String tmp = "";
-            for (int i = 0; i < n; i++)
-            {
-                tmp += a[i] + ", ";
-            }
-            Console.WriteLine("- Day so vua nhap: \n" + tmp.Substring(0, tmp.Length - 2));
-        }
-
-        //Ham dem so phan tu le trong mang
-        public int getCountOddNumber(int[] a, int n)
-        {
-            int count = 0;
-            for (int i = 0; i < n; i++)
-                if (a[i] % 2 == 1) count++;
-            return count;
-        }
-
-        // Ham tinh tong cac phan tu le trong mang
-        public static void getSumOddNumber(int []a, int n)
-        {
-
-            int i, sum = 0;
-            Console.WriteLine("\n- Hien thi cac so le: ");
-            for (i = 1; i <= n; i++)
-            {
-                Console.WriteLine("{0} ", 2 * i - 1);
-                sum += 2 * i - 1;
-            }
-            Console.ReadKey();
-        }
-
-         //Ham xac dinh mot so co phai so nguyen to hay khong
-        public Boolean isPrimeNumber(int n)
-        {
-            if (n < 2) return false;
-            for (int i = 2; i < n; i++)
-                if (n % i == 0) return false;
-            return true;
-        }
-
-        //Ham in cac so nguyen to trong mang
-
-        public void printPrimeNumber(int[] a, int n)
-        {
-            String tmp = "";
-            for (int i = 0; i < n; i++)
-            {
-                if (isPrimeNumber(a[i]))
+                for (j = 0; j < IntArray.GetLength(1); j++)
                 {
-                    tmp += a[i] + ", ";
+                    Console.Write("Nhap gia tri phan tu [{0},{1}]: ", i, j);
+                    IntArray[i, j] = int.Parse(Console.ReadLine());
                 }
             }
-            if (tmp != "")
-            {
-                tmp = tmp.Substring(0, tmp.Length - 2);
 
-                Console.WriteLine("- Cac so nguyen to trong mang: \n" + tmp);
-            }
-            else
-            {
-                Console.WriteLine("- Trong mang khong co so nguyen to !\n");
-            }
-        }
+            // a. Xuat ma tran.
+            Console.WriteLine("\nCau a)");
+            Console.WriteLine("* Ma tran vua nhap *");
 
-        //Ham dem so luong cac so nguyen to trong mang
-        public int getCountPrimeNumber(int[] a, int n)
-        {
-            int count = 0;
-
-            for (int i = 0; i < n; i++)
+            for (i = 0; i < IntArray.GetLength(0); i++)
             {
-                if (isPrimeNumber(a[i]))
+                for (j = 0; j < IntArray.GetLength(1); j++)
                 {
-                    count++;
+                    Console.Write("{0,3}", IntArray[i, j]);
+                }
+                Console.WriteLine();
+            }
+
+            // b. Tim phan tu lon nhat, nho nhat trong mang.
+            mx = IntArray[0, 0];
+            mn = IntArray[0, 0];
+
+            for (i = 0; i < n; i++)
+            {
+                for (j = 0; j < m; j++)
+                {
+                    if (IntArray[i, j] > mx)
+                    {
+                        mx = IntArray[i, j];
+                    }
+
+                    if (IntArray[i, j] < mn)
+                    {
+                        mn = IntArray[i, j];
+                    }
                 }
             }
-            return count;
-        }
 
-        //Ham kiem tra mot so co phai so chinh phuong hay khong
-        public Boolean isSquareNumber(int a)
-        {
-            Boolean kq = false;
-            double x = Math.Sqrt(a);
-            if ((int)x * x == a) { kq = true; }
-            return kq;
-        }
+            Console.WriteLine("\nCau b)");
+            Console.Write("Phan tu lon nhat trong mang la: {0}\n", mx);
+            Console.Write("Phan tu nho nhat trong mang la: {0}\n", mn);
 
-        //Ham in cac so chinh phuong trong mang
-        public void printSquareNumber(int[] a, int n)
-        {
-            String tmp = "";
-            for (int i = 0; i < n; i++)
+            // c. Tim dong co tong lon nhat.
+            int[] SumRow = new int[10];
+            int MaxRow = SumRow[0];
+            for (i = 0; i < n; i++)
             {
-                if (isSquareNumber(a[i]))
+                SumRow[i] = 0;
+                for (j = 0; j < m; j++)
                 {
-                    tmp += a[i] + ", ";
+                    SumRow[i] = SumRow[i] + IntArray[i, j];
                 }
             }
-            if (tmp != "")
-            {
-                tmp = tmp.Substring(0, tmp.Length - 2);
-                Console.WriteLine("- Cac so chinh phuong trong mang: " + tmp);
-            }
-            else
-            {
-                Console.WriteLine("- Trong mang khong co so chinh phuong !");
-            }
-        }
 
-        //Ham tim so chinh phuong nho nhat
-        public int getMin(int[] a, int n)
-        {
-            int min = a[0];
-            for (int i = 0; i < n; i++)
+            for (i = 0; i < n; i++)
             {
-                if (isSquareNumber(a[i]))
+                for (j = 0; j < m; j++)
                 {
-                    if (min > a[i]) min = a[i];
+                    if (SumRow[i] > MaxRow)
+                    {
+                        MaxRow = SumRow[i];
+                    }
                 }
-                return min;
             }
-            return min;
-        }
+            Console.WriteLine("\nCau c)");
+            Console.WriteLine("Dong co tong lon nhat la: {0}", MaxRow);
 
-            static void Main(string[] args)
+
+         // d. Tinh tong cac so khong phai la so nguyen to.
+            int[] SumPrime = new int[10];
+            static Boolean isPrimeNumber(int n)
             {
-                Program p = new Program();
-                int n = 0; int[] a = new int[100];
-                p.setArray(ref n, ref a);
-                p.print(a, n);
-                Console.WriteLine("- So luong phan tu le trong mang: " + p.getCountOddNumber(a, n));
-                Console.WriteLine("\n- Tong so le trong mang la:"); 
-                getSumOddNumber(a, n);
-                Console.WriteLine("- So luong so nguyen to trong mang: " + p.getCountPrimeNumber(a, n));
-                p.printSquareNumber(a, n);
-                Console.WriteLine("- So chinh phuong nho nhat trong mang: " + p.getMin(a, n));
+                // so nguyen n < 2 khong phai la so nguyen to
+                if (n < 2)
+                {
+                    return false;
+                }
+                // check so nguyen to khi n >= 2
+                int squareRoot = (int)Math.Sqrt(n);
+                int i;
+                for (i = 2; i <= squareRoot; i++)
+                {
+                    if (n % i == 0)
+                    {
+                        return false;
+                    }
+                }
+                return true;
             }
+
+            for (i = 0; i < n; i++)
+            {
+                SumPrime[i] = 0;
+                for (j = 0; j < m; j++)
+                {
+                    if (isPrimeNumber(i) == false)
+                    {
+                        SumPrime[i] = SumPrime[i]+ IntArray[i, j];
+                    }          
+                }
+            }
+            Console.WriteLine("\nCau d)");
+            Console.Write("Tong cac so khong phai so nguyen to la: {0}", SumPrime[i] );
+        }
     }
 }
+
