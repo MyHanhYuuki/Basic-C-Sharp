@@ -37,10 +37,9 @@ namespace Bai_3
                 }
             }
 
-            // a. Xuat ma tran.
-            Console.WriteLine("\nCau a)");
-            Console.WriteLine("* Ma tran vua nhap *");
+            // Xuat ma tran.
 
+            Console.WriteLine("\n * Ma tran vua nhap *");
             for (i = 0; i < IntArray.GetLength(0); i++)
             {
                 for (j = 0; j < IntArray.GetLength(1); j++)
@@ -50,7 +49,7 @@ namespace Bai_3
                 Console.WriteLine();
             }
 
-            // b. Tim phan tu lon nhat, nho nhat trong mang.
+            // Tim phan tu lon nhat, nho nhat trong mang.
             mx = IntArray[0, 0];
             mn = IntArray[0, 0];
 
@@ -69,12 +68,10 @@ namespace Bai_3
                     }
                 }
             }
+            Console.Write("\n Phan tu lon nhat trong mang la: {0}\n", mx);
+            Console.Write("\n Phan tu nho nhat trong mang la: {0}\n", mn);
 
-            Console.WriteLine("\nCau b)");
-            Console.Write("Phan tu lon nhat trong mang la: {0}\n", mx);
-            Console.Write("Phan tu nho nhat trong mang la: {0}\n", mn);
-
-            // c. Tim dong co tong lon nhat.
+            // Tim dong co tong lon nhat.
             int[] SumRow = new int[10];
             int MaxRow = SumRow[0];
             for (i = 0; i < n; i++)
@@ -96,46 +93,20 @@ namespace Bai_3
                     }
                 }
             }
-            Console.WriteLine("\nCau c)");
-            Console.WriteLine("Dong co tong lon nhat la: {0}", MaxRow);
+            Console.WriteLine("\n Dong co tong lon nhat la: {0}", MaxRow);
+        }
 
+        //Ham xac dinh mot so co phai so nguyen to hay khong
+        public Boolean isPrimeNumber(int n)
+        {
+            if (n < 2) return false;
 
-         // d. Tinh tong cac so khong phai la so nguyen to.
-            int[] SumPrime = new int[10];
-            static Boolean isPrimeNumber(int n)
-            {
-                // so nguyen n < 2 khong phai la so nguyen to
-                if (n < 2)
-                {
-                    return false;
-                }
-                // check so nguyen to khi n >= 2
-                int squareRoot = (int)Math.Sqrt(n);
-                int i;
-                for (i = 2; i <= squareRoot; i++)
-                {
-                    if (n % i == 0)
-                    {
-                        return false;
-                    }
-                }
-                return true;
-            }
+            for (int i = 2; i < n; i++)
 
-            for (i = 0; i < n; i++)
-            {
-                SumPrime[i] = 0;
-                for (j = 0; j < m; j++)
-                {
-                    if (isPrimeNumber(i) == false)
-                    {
-                        SumPrime[i] = SumPrime[i]+ IntArray[i, j];
-                    }          
-                }
-            }
-            Console.WriteLine("\nCau d)");
-            Console.Write("Tong cac so khong phai so nguyen to la: {0}", SumPrime[i] );
+                if (n % i == 0) return false;
+
+            return true;
         }
     }
 }
-
+     
