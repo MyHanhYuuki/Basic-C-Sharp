@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Chuan hoa chuoi ho ten.
+
+using System;
 
 namespace Bai02
 {
