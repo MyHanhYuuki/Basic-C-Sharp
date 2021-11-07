@@ -134,7 +134,7 @@ namespace Bai_2
             }
         }
 
-        // Ham tim so chinh phuong nho nhat trong mang
+        // Ham tim so chinh phuong nho nhat trong mang.
         public int getMinSquareNumber(int[] a, int n)
         {
 
