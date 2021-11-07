@@ -39,6 +39,7 @@ namespace Bai01
                 Console.WriteLine("Drive Format: " + driveInfo.DriveFormat.ToString());
                 Console.WriteLine("Drive Free Space: " + driveInfo.AvailableFreeSpace.ToString());
             }
+            
             Console.ReadKey();
         }
     }
