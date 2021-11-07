@@ -6,7 +6,6 @@
 // e. Xóa dòng thứ k trong ma trận
 // f. Xóa cột chứa phần tử lớn nhất trong ma trận
 
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
