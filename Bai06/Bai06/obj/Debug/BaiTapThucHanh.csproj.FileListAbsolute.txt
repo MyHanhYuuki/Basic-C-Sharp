@@ -1,7 +1,0 @@
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\bin\Debug\BaiTapThucHanh.exe.config
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\bin\Debug\BaiTapThucHanh.exe
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\bin\Debug\BaiTapThucHanh.pdb
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\obj\Debug\BaiTapThucHanh.csprojAssemblyReference.cache
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\obj\Debug\BaiTapThucHanh.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\obj\Debug\BaiTapThucHanh.exe
-C:\Users\admin\source\repos\BaiTapThucHanh\BaiTapThucHanh\obj\Debug\BaiTapThucHanh.pdb
