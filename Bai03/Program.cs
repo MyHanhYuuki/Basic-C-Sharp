@@ -1,7 +1,6 @@
 ﻿// Da hinh dong (overriding). Tinh dien tich, chu vi hinh chu nhat.
 
 using System;
-
 namespace Bai03
 {
     class Program
