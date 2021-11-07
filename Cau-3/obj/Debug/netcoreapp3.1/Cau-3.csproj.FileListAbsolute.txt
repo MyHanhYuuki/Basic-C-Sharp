@@ -1,0 +1,13 @@
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.exe
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.deps.json
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.runtimeconfig.json
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.runtimeconfig.dev.json
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.dll
+F:\16521597- PhungThiMyHanh\Cau-3\bin\Debug\netcoreapp3.1\Cau-3.pdb
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.csprojAssemblyReference.cache
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.AssemblyInfoInputs.cache
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.AssemblyInfo.cs
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.csproj.CoreCompileInputs.cache
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.dll
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.pdb
+F:\16521597- PhungThiMyHanh\Cau-3\obj\Debug\netcoreapp3.1\Cau-3.genruntimeconfig.cache

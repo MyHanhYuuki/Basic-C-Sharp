@@ -1,0 +1,13 @@
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.exe
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.deps.json
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.runtimeconfig.json
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.runtimeconfig.dev.json
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.dll
+F:\16521597- PhungThiMyHanh\Cau-17\bin\Debug\netcoreapp3.1\Cau-17.pdb
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.AssemblyInfoInputs.cache
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.AssemblyInfo.cs
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.csproj.CoreCompileInputs.cache
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.dll
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.pdb
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.genruntimeconfig.cache
+F:\16521597- PhungThiMyHanh\Cau-17\obj\Debug\netcoreapp3.1\Cau-17.csprojAssemblyReference.cache
