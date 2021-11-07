@@ -1,4 +1,4 @@
-﻿// Thoi Gian Hien Hanh
+﻿ // Thoi Gian Hien Hanh.
 using System;
 
 namespace Cau03
