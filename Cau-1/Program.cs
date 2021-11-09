@@ -1,4 +1,4 @@
-﻿// Tính chu vi và diện tích của hình tròn có bán kính R.
+﻿// Tính chu vi và diện tích của hình tròn có bán kính R..
 
 using System;
 
