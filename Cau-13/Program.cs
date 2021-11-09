@@ -1,5 +1,6 @@
 ﻿//Giải và biện luận phương trình bậc 2: ax2 + bx + c = 0
 
+
 using System;
 
 namespace Cau_13
