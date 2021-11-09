@@ -1,5 +1,6 @@
 ﻿//  Kiểm tra ký tự nhập vào là nguyên âm (a, e, i, o, u) hay phụ âm.
 
+
 using System;
 
 namespace Cau_6
