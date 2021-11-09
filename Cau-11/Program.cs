@@ -1,10 +1,11 @@
-﻿//Nhập điểm chuẩn và điểm 3 môn thi, mã khu vực (A, B, C), mã đối tượng (1, 2, 3) của thísinh. Hiển thị kết quả “Trúng tuyển” nếu tổng điểm thi 3 môn cộng với điểm ưu tiên khu vựcvà điểm ưu tiên đối tượng lớn hơn hoặc bằng điểm chuẩn
+﻿//Nhập điểm chuẩn và điểm 3 môn thi, mã khu vực (A, B, C), mã đối tượng (1, 2, 3) của thísinh. Hiển thị kết quả “Trúng tuyển” nếu tổng điểm thi 3 môn cộng với điểm ưu tiên khu vực và điểm ưu tiên đối tượng lớn hơn hoặc bằng điểm chuẩn
 //• Khu vực A: cộng 1.5 điểm
 //• Khu vực B: cộng 1 điểm
 //• Khu vực C: cộng 0.5 điểm
 //• Đối tượng 1: cộng 1.5 điểm
 //• Đối tượng 2: cộng 1 điểm
 //• Đối tượng 3: cộng .5 điểm
+
 
 using System;
 
