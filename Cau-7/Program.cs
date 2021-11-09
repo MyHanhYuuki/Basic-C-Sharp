@@ -1,5 +1,4 @@
-﻿/*Nhập vào số tiền. Hãy tính và in ra số tờ tiền tương ứng của các mệnh giá giảm dần: 500k, 200k, 100k, 50k. (giả sử đổi hết mệnh giá lớn, phần dư mới đổi sang mệnh giá nhỏ hơn). */
-
+﻿/*Nhập vào số tiền. Hãy tính và in ra số tờ tiền tương ứng của các mệnh giá giảm dần: 500k, 200k, 100k, 50k. (giả sử đổi hết mệnh giá lớn, phần dư mới đổi sang mệnh giá nhỏ hơn) */
 
 using System;
 
