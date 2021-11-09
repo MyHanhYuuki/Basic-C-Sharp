@@ -91,7 +91,7 @@ namespace Cau_14
                     }
                     break;
             }
-            Console.WriteLine("\n Ban co muon choi tiep khong? \n 1- Co\n 2- Khong \n");
+            Console.WriteLine("\nBan co muon choi tiep khong? \n 1- Co\n 2- Khong \n");
             Console.WriteLine(" Moi ban nhap lua chon:");
             int n = Convert.ToInt32(Console.ReadLine());
             if (n == 1)
