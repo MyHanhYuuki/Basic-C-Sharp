@@ -36,7 +36,7 @@ namespace Cau_4
                 Console.WriteLine("Hoc sinh dat loai xuat sac!");
             else
             {
-                Console.WriteLine(" Ban vui long nhap lai!");
+                Console.WriteLine("Ban vui long nhap lai!");
                 goto NhapLai;
             }
         }
