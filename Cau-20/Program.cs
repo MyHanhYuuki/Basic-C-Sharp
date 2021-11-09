@@ -2,7 +2,6 @@
 
 using System;
 
-
 namespace Cau_20
 
 {
