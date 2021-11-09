@@ -1,4 +1,5 @@
-﻿// Tính chu vi và diện tích của hình chữ nhật, với chiều dài và chiều rộng được nhập vào.
+﻿// Tính chu vi và diện tích của hình chữ nhật, với chiều dài và chiều rộng được nhập vào..
+
 
 using System;
 
