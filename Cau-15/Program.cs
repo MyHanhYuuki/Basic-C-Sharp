@@ -1,5 +1,6 @@
 ﻿//Viết chương trình mô phỏng trò chơi đoán số mà máy phát sinh. Nếu đoán đúng thì hiển thị chúc mừng, nếu nhỏ hơn hoặc lớn hơn thì thông báo cho người dùng biết mà đoán lại
 
+
 using System;
 
 namespace Cau_15
