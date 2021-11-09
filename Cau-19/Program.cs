@@ -1,5 +1,6 @@
 ﻿// Tìm USCLN và BSCNN của 2 số nguyên a, b theo giải thuật Euclide.
 
+
 using System;
 
 namespace Cau_19
