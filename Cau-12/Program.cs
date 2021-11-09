@@ -1,7 +1,6 @@
 ﻿// Giải và biện luận phương trình bậc 1: ax + b = 0
 
 using System;
-
 namespace Cau_12
 {
     class Program
