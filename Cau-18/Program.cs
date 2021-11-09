@@ -1,5 +1,6 @@
 ﻿//Hiển thị menu với các lựa chọn để thực hiện in ra: bảng cửu chương thứ n, bảng cửu chương từ m đến n và bảng cửu chương tổng hợp.
 
+
 using System;
 
 namespace Cau_18
