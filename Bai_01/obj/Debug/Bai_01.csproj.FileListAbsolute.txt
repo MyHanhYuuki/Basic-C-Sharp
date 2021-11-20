@@ -1,0 +1,10 @@
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\bin\Debug\Bai_01.exe.config
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\bin\Debug\Bai_01.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\bin\Debug\Bai_01.pdb
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.csprojAssemblyReference.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.Properties.Resources.resources
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.csproj.GenerateResource.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.csproj.CoreCompileInputs.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.pdb
+F:\BTH4_PhungThiMyHanh_16521597\Bai_01\obj\Debug\Bai_01.Form1.resources
