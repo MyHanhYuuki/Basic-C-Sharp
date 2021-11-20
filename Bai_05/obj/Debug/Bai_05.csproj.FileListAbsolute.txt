@@ -1,0 +1,11 @@
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.csprojAssemblyReference.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.Properties.Resources.resources
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.csproj.GenerateResource.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.csproj.CoreCompileInputs.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.FormMain.resources
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.FormAddStudent.resources
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\bin\Debug\Bai_05.exe.config
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\bin\Debug\Bai_05.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\bin\Debug\Bai_05.pdb
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_05\obj\Debug\Bai_05.pdb
