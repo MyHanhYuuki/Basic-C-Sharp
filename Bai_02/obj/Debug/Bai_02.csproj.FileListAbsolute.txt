@@ -1,0 +1,10 @@
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.Properties.Resources.resources
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.csproj.GenerateResource.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.csproj.CoreCompileInputs.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\bin\Debug\Bai_02.exe.config
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\bin\Debug\Bai_02.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\bin\Debug\Bai_02.pdb
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.csprojAssemblyReference.cache
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.exe
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.pdb
+F:\BTH4_PhungThiMyHanh_16521597\Bai_02\obj\Debug\Bai_02.Form_Clock.resources
