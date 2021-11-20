@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\bin\Debug\Bai_04.exe.config
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\bin\Debug\Bai_04.exe
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\bin\Debug\Bai_04.pdb
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.Form1.resources
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.exe
+C:\Users\ADMIN\Desktop\BTH4_PhungThiMyHanh_16521597\Bai_04\obj\Debug\Bai_04.pdb
