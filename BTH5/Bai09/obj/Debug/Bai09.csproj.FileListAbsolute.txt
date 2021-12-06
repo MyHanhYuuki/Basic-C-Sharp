@@ -1,0 +1,10 @@
+F:\Code\New folder\Bai09\bin\Debug\Bai09.exe.config
+F:\Code\New folder\Bai09\bin\Debug\Bai09.exe
+F:\Code\New folder\Bai09\bin\Debug\Bai09.pdb
+F:\Code\New folder\Bai09\obj\Debug\Bai09.csproj.AssemblyReference.cache
+F:\Code\New folder\Bai09\obj\Debug\Bai09.Form1.resources
+F:\Code\New folder\Bai09\obj\Debug\Bai09.Properties.Resources.resources
+F:\Code\New folder\Bai09\obj\Debug\Bai09.csproj.GenerateResource.cache
+F:\Code\New folder\Bai09\obj\Debug\Bai09.csproj.CoreCompileInputs.cache
+F:\Code\New folder\Bai09\obj\Debug\Bai09.exe
+F:\Code\New folder\Bai09\obj\Debug\Bai09.pdb

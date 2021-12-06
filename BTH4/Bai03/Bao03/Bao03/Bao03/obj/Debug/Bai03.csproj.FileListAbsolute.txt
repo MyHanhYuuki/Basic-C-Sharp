@@ -1,0 +1,47 @@
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\bin\Debug\Bao03.exe.config
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\bin\Debug\Bao03.exe
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\bin\Debug\Bao03.pdb
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\bin\Debug\Interop.WMPLib.dll
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\bin\Debug\AxInterop.WMPLib.dll
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Interop.WMPLib.dll
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\AxInterop.WMPLib.dll
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bao03.Form1.resources
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bao03.Properties.Resources.resources
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bai03.csproj.GenerateResource.cache
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bao03.exe
+E:\Spaghetti\Visual Programming\TH\BTH4\Bao03\Bao03\obj\Debug\Bao03.pdb
+E:\Downloads\Bao03\Bao03\Bao03\bin\Debug\Bao03.exe.config
+E:\Downloads\Bao03\Bao03\Bao03\bin\Debug\Bao03.exe
+E:\Downloads\Bao03\Bao03\Bao03\bin\Debug\Bao03.pdb
+E:\Downloads\Bao03\Bao03\Bao03\bin\Debug\Interop.WMPLib.dll
+E:\Downloads\Bao03\Bao03\Bao03\bin\Debug\AxInterop.WMPLib.dll
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Interop.WMPLib.dll
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\AxInterop.WMPLib.dll
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bao03.Form1.resources
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bao03.Properties.Resources.resources
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.GenerateResource.cache
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bao03.exe
+E:\Downloads\Bao03\Bao03\Bao03\obj\Debug\Bao03.pdb
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\bin\Debug\Bao03.exe.config
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\bin\Debug\Bao03.exe
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\bin\Debug\Bao03.pdb
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\bin\Debug\Interop.WMPLib.dll
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\bin\Debug\AxInterop.WMPLib.dll
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Interop.WMPLib.dll
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\AxInterop.WMPLib.dll
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bao03.Form1.resources
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bao03.Properties.Resources.resources
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.GenerateResource.cache
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bao03.exe
+E:\GIT\The Squad\Uit\Visual Programming\BTH4\Bai03\Bao03\Bao03\Bao03\obj\Debug\Bao03.pdb

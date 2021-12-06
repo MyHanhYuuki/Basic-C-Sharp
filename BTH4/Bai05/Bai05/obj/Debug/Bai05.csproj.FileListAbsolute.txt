@@ -1,0 +1,47 @@
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\bin\Debug\Bai05.exe.config
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\bin\Debug\Bai05.exe
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\bin\Debug\Bai05.pdb
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.csproj.SuggestedBindingRedirects.cache
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.FormAddStudent.resources
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.FormMain.resources
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.exe
+D:\Spaghetti\Visual Programming\Practice\Bai05\Bai05\obj\Debug\Bai05.pdb
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\bin\Debug\Bai05.exe.config
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\bin\Debug\Bai05.exe
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\bin\Debug\Bai05.pdb
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.SuggestedBindingRedirects.cache
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.FormAddStudent.resources
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.FormMain.resources
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.exe
+E:\GIT\The Squad\Uit\Year 2\Visual Programming\BTH4\Bai05\Bai05\obj\Debug\Bai05.pdb
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\bin\Debug\Bai05.exe.config
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\bin\Debug\Bai05.exe
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\bin\Debug\Bai05.pdb
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.SuggestedBindingRedirects.cache
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.FormAddStudent.resources
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.FormMain.resources
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.exe
+E:\Spaghetti\Practice\BTH4\Bai05\Bai05\obj\Debug\Bai05.pdb
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\bin\Debug\Bai05.exe.config
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\bin\Debug\Bai05.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\bin\Debug\Bai05.pdb
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.FormAddStudent.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.FormMain.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai05\Bai05\obj\Debug\Bai05.pdb

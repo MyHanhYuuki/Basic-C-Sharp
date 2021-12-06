@@ -1,0 +1,20 @@
+F:\Code\New folder\Bai08\bin\Debug\Bai08.exe.config
+F:\Code\New folder\Bai08\bin\Debug\Bai08.exe
+F:\Code\New folder\Bai08\bin\Debug\Bai08.pdb
+F:\Code\New folder\Bai08\obj\Debug\Bai08.csproj.AssemblyReference.cache
+F:\Code\New folder\Bai08\obj\Debug\Bai08.Form1.resources
+F:\Code\New folder\Bai08\obj\Debug\Bai08.Properties.Resources.resources
+F:\Code\New folder\Bai08\obj\Debug\Bai08.csproj.GenerateResource.cache
+F:\Code\New folder\Bai08\obj\Debug\Bai08.csproj.CoreCompileInputs.cache
+F:\Code\New folder\Bai08\obj\Debug\Bai08.exe
+F:\Code\New folder\Bai08\obj\Debug\Bai08.pdb
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\bin\Debug\Bai08.exe.config
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\bin\Debug\Bai08.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\bin\Debug\Bai08.pdb
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.csproj.AssemblyReference.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.Form1.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.Properties.Resources.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.csproj.GenerateResource.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.csproj.CoreCompileInputs.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH5\Bai08\obj\Debug\Bai08.pdb

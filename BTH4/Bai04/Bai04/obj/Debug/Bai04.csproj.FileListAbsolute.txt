@@ -1,0 +1,10 @@
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\bin\Debug\Bai04.exe.config
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\bin\Debug\Bai04.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\bin\Debug\Bai04.pdb
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.Form1.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.exe
+F:\Hoc_Ki_3\Lap_Trinh_Truc_Quan\TH\TH4\Bai04\Bai04\obj\Debug\Bai04.pdb

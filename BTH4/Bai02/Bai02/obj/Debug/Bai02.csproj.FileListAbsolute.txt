@@ -1,0 +1,10 @@
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.Form_Clock.resources
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\VS Studio\Visual Programming\BTH4\Bai02\Bai02\obj\Debug\Bai02.pdb

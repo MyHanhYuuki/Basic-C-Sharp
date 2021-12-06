@@ -1,0 +1,20 @@
+F:\Code\New folder\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+F:\Code\New folder\Bai03\obj\Debug\Bai03.Form1.resources
+F:\Code\New folder\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+F:\Code\New folder\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+F:\Code\New folder\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+F:\Code\New folder\Bai03\bin\Debug\Bai03.exe.config
+F:\Code\New folder\Bai03\bin\Debug\Bai03.exe
+F:\Code\New folder\Bai03\bin\Debug\Bai03.pdb
+F:\Code\New folder\Bai03\obj\Debug\Bai03.exe
+F:\Code\New folder\Bai03\obj\Debug\Bai03.pdb
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\bin\Debug\Bai03.exe
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\bin\Debug\Bai03.pdb
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.exe
+C:\Users\HOANG LONG\Desktop\Uit\Year 2\Visual Programming\BTH5\Bai03\obj\Debug\Bai03.pdb

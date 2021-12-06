@@ -1,0 +1,24 @@
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\bin\Debug\Bai01.exe.config
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\bin\Debug\Bai01.exe
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\bin\Debug\Bai01.pdb
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.csproj.SuggestedBindingRedirects.cache
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.FormMain.resources
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.FormMove.resources
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.exe
+D:\Spaghetti\Visual Programming\Practice\Week5\Bai01\Bai01\obj\Debug\Bai01.pdb
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\bin\Debug\Bai01.exe.config
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\bin\Debug\Bai01.exe
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\bin\Debug\Bai01.pdb
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.csproj.SuggestedBindingRedirects.cache
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.FormMain.resources
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.FormMove.resources
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.exe
+E:\GIT\Personal\Coding-exercises\Year 2\Visual Programming\TH\BTH5\Bai01\Bai01\obj\Debug\Bai01.pdb

@@ -1,0 +1,11 @@
+E:\Spaghetti\Practice\BTH4\Bai06\bin\Debug\Bai05.exe.config
+E:\Spaghetti\Practice\BTH4\Bai06\bin\Debug\Bai05.exe
+E:\Spaghetti\Practice\BTH4\Bai06\bin\Debug\Bai05.pdb
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai06.csproj.AssemblyReference.cache
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai06.csproj.SuggestedBindingRedirects.cache
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai05.Form1.resources
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai05.Properties.Resources.resources
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai06.csproj.GenerateResource.cache
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai06.csproj.CoreCompileInputs.cache
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai05.exe
+E:\Spaghetti\Practice\BTH4\Bai06\obj\Debug\Bai05.pdb
