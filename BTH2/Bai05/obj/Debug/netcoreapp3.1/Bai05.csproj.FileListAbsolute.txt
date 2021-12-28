@@ -1,0 +1,13 @@
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.exe
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.deps.json
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.runtimeconfig.json
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.runtimeconfig.dev.json
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.dll
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\bin\Debug\netcoreapp3.1\Bai05.pdb
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.csprojAssemblyReference.cache
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.AssemblyInfoInputs.cache
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.AssemblyInfo.cs
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.csproj.CoreCompileInputs.cache
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.dll
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.pdb
+F:\BTH2_PhungThiMyHanh_16521597\Bai05\obj\Debug\netcoreapp3.1\Bai05.genruntimeconfig.cache
