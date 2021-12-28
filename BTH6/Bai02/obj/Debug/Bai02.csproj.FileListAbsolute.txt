@@ -1,0 +1,10 @@
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\bin\Debug\Bai02.exe.config
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\bin\Debug\Bai02.exe
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\bin\Debug\Bai02.pdb
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.exe
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.pdb
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.csprojAssemblyReference.cache
+F:\BTH6_PhungThiMyHanh_16521597\Bai02\obj\Debug\Bai02.Form1.resources
